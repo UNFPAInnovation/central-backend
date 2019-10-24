@@ -31,10 +31,12 @@
     "pg-query-stream": "~1.1",
     "prompt": "~1",
     "ramda": "~0",
+    "request": "^2.88.0",
     "sanitize-filename": "~1",
     "@sentry/node": "~5",
     "tmp": "~0",
     "uuid": "~3",
+    "xml2js": "^0.4.22",
     "yauzl": "~2.9"
   },
   "devDependencies": {
