@@ -6,3 +6,10 @@ node_modules/
 /*.log
 /coverage/
 .nyc_output/
+.idea/central-backend.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/
